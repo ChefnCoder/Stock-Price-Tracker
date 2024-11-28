@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+.npm/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+env*/
+.venv/
+*.env
+*.env.local
+
+# Logs
+logs/
+*.log
+
+# SQLite
+*.db
+*.sqlite3
+
+# Redis dump files
+dump.rdb
+appendonly.aof
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+dist/
+.next/
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
