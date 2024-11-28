@@ -6,7 +6,10 @@ Stock Price Tracker is a full-stack web application built to track stock prices.
 The project features a **FastAPI** backend, **Next.js** frontend, SQLite database, and **Redis** caching for improved performance.
 
 ---
-[Download Video](./public/STOCK%20VIDEO.mp4)
+<video controls width="500">
+    <source src="./public/STOCK%20VIDEO.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ## 🛠 Features
 
